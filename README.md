@@ -1,4 +1,4 @@
-**Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
+*Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 # AndroRAT 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
