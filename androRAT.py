@@ -61,4 +61,4 @@ if args.shell:
     if args.ip and args.port:
         get_shell(args.ip,args.port) 
     else:
-        print(stdOutput("error")+"\033[1mArguments Missing")
+        print(stdOutput("error")+"\033[1mArguments Missing"
