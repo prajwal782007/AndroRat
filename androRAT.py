@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from utils  *
+from utils import *
 import argparse
 import sys
 import platform
